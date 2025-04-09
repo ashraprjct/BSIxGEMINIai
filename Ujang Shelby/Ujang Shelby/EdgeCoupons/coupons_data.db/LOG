@@ -1,0 +1,9 @@
+2025/04/09-18:17:57.123 11202 Reusing MANIFEST /home/prstya/BSIxGEMINIai/Ujang Shelby/Ujang Shelby/EdgeCoupons/coupons_data.db/MANIFEST-000001
+2025/04/09-18:17:57.124 11202 Recovering log #8
+2025/04/09-18:17:57.149 11202 Level-0 table #11: started
+2025/04/09-18:17:57.212 11202 Level-0 table #11: 670820 bytes OK
+2025/04/09-18:17:57.213 11202 Recovering log #10
+2025/04/09-18:17:57.223 11202 Reusing old log /home/prstya/BSIxGEMINIai/Ujang Shelby/Ujang Shelby/EdgeCoupons/coupons_data.db/000010.log 
+2025/04/09-18:17:57.268 11202 Delete type=0 #8
+2025/04/09-18:17:57.286 11203 Level-0 table #13: started
+2025/04/09-18:17:57.346 11203 Level-0 table #13: 670820 bytes OK
