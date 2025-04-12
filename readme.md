@@ -6,7 +6,7 @@
 <h1 align="center">UBSIxGEMINIai</h1>
 <p align="center"><i>AI for everything</i></p>
 <p align="center">
-  <img src="https://github.com/ashraprjct/BSIxGEMINIai/blob/main/package/logo/test.gif?raw=true" alt="Video Demo" width="600" />
+  <img src="https://github.com/ashraprjct/BSIxGEMINIai/blob/main/package/logo/tes.gif?raw=true" alt="Video Demo" width="600" />
 </p>
 <p align="center">
   <a href="https://www.youtube.com/watch?v=j9VRcVIxbDE" target="_blank">
