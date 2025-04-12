@@ -1,6 +1,11 @@
 <p align="center">
    <img src="https://github.com/ashraprjct/BSIxGEMINIai/blob/main/package/logo/logo.png?raw=true" alt="UBSIxGEMINIai Banner" width=600 />
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/j9VRcVIxbDE?si=VDz15eEizFxE9XMW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+   <p align="center">
+  <a href="https://www.youtube.com/watch?v=j9VRcVIxbDE" target="_blank">
+    <img src="https://img.youtube.com/vi/j9VRcVIxbDE/0.jpg" alt="Watch Video" width="600"/>
+  </a>
+</p>
+
 </p>
 <h1 align="center">UBSIxGEMINIai</h1>
 <p align="center"><i>AI for everything</i></p>
