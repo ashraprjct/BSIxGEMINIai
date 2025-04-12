@@ -1,14 +1,18 @@
 <p align="center">
    <img src="https://github.com/ashraprjct/BSIxGEMINIai/blob/main/package/logo/logo.png?raw=true" alt="UBSIxGEMINIai Banner" width=600 />
-   <p align="center">
-  <a href="https://www.youtube.com/watch?v=j9VRcVIxbDE" target="_blank">
-    <img src="https://img.youtube.com/vi/j9VRcVIxbDE/0.jpg" alt="Watch Video" width="600"/>
-  </a>
+   
 </p>
 
-</p>
 <h1 align="center">UBSIxGEMINIai</h1>
 <p align="center"><i>AI for everything</i></p>
+<p align="center">
+  <img src="https://github.com/ashraprjct/BSIxGEMINIai/blob/main/package/logo/test.gif?raw=true" alt="Video Demo" width="600" />
+</p>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=j9VRcVIxbDE" target="_blank">
+  watch on youtube
+  </a>
+</p>
 
 ## EN
 
