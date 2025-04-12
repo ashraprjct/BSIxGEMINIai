@@ -32,7 +32,7 @@
 3. **Clone the Repository**:
    - Open a terminal and run:
      ```sh
-     git clone https://github.com/dafaprasetya/BSIxGEMINIai
+     git clone https://github.com/ashraprjct/BSIxGEMINIai
      ```
 
 4. **Install Requirements**:
@@ -120,7 +120,7 @@ Thanks
 3. **Clone Repository**:
    - Buka terminal dan jalankan:
      ```sh
-     git clone https://github.com/dafaprasetya/BSIxGEMINIai
+     git clone https://github.com/ashraprjct/BSIxGEMINIai
      ```
 
 4. **Install Requirements**:
