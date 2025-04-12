@@ -9,6 +9,9 @@
   <img src="https://github.com/ashraprjct/BSIxGEMINIai/blob/main/package/logo/tes.gif?raw=true" alt="Video Demo" width="600" />
 </p>
 <p align="center">
+  <img src="https://github.com/ashraprjct/BSIxGEMINIai/blob/main/package/logo/nilai.png?raw=true" alt="Video Demo" width="600" />
+</p>
+<p align="center">
   <a href="https://www.youtube.com/watch?v=j9VRcVIxbDE" target="_blank">
   watch on youtube
   </a>
